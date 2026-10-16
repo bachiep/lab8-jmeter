@@ -34,7 +34,9 @@ Các khái niệm chính đã dùng trong lab này:
 
 ## 2. Kịch bản kiểm thử (testplan.jmx)
 
-![Sơ đồ Test Plan](screenshots/testplan-tree.png)
+![Test Plan trong giao diện JMeter (ảnh chụp thật từ GUI)](screenshots/testplan-tree.png)
+
+*Ảnh chụp thật từ giao diện JMeter (chạy GUI qua Xvfb trên server).*
 
 Kịch bản gồm **2 Thread Group chạy tuần tự**, mỗi request đều có assertion kiểm tra HTTP 200:
 
