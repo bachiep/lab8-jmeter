@@ -1,0 +1,50 @@
+{
+  "GET - Trang chu (/)" : {
+    "transaction" : "GET - Trang chu (/)",
+    "sampleCount" : 125,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 774.5359999999998,
+    "medianResTime" : 350.0,
+    "minResTime" : 222.0,
+    "maxResTime" : 3144.0,
+    "pct1ResTime" : 2035.4,
+    "pct2ResTime" : 2189.199999999999,
+    "pct3ResTime" : 3123.9799999999996,
+    "throughput" : 3.5999193618062955,
+    "receivedKBytesPerSec" : 2.6577529663335544,
+    "sentKBytesPerSec" : 0.4605365589810788
+  },
+  "GET - Trang dang nhap (/conggiangvien/login.aspx)" : {
+    "transaction" : "GET - Trang dang nhap (/conggiangvien/login.aspx)",
+    "sampleCount" : 125,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 359.39200000000005,
+    "medianResTime" : 362.0,
+    "minResTime" : 256.0,
+    "maxResTime" : 851.0,
+    "pct1ResTime" : 419.8,
+    "pct2ResTime" : 426.4,
+    "pct3ResTime" : 840.5999999999998,
+    "throughput" : 3.812137846904544,
+    "receivedKBytesPerSec" : 25.955297918572736,
+    "sentKBytesPerSec" : 0.5770325842482464
+  },
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 250,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 566.9640000000006,
+    "medianResTime" : 351.5,
+    "minResTime" : 222.0,
+    "maxResTime" : 3144.0,
+    "pct1ResTime" : 1657.4,
+    "pct2ResTime" : 2035.45,
+    "pct3ResTime" : 3007.330000000001,
+    "throughput" : 7.05875709405088,
+    "receivedKBytesPerSec" : 26.635778722082616,
+    "sentKBytesPerSec" : 0.9857443988762459
+  }
+}

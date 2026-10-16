@@ -1,0 +1,251 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1792117225051,1537,GET - Trang chu (/),200,OK,1. Baseline - 10 users 1-2,text,true,,756,131,3,3,https://qldtbeta.phenikaa-uni.edu.vn/,1511,0,3
+1792117224274,2408,GET - Trang chu (/),200,OK,1. Baseline - 10 users 1-1,text,true,,756,131,3,3,https://qldtbeta.phenikaa-uni.edu.vn/,2408,0,24
+1792117226901,296,GET - Trang dang nhap (/conggiangvien/login.aspx),200,OK,1. Baseline - 10 users 1-2,text,true,,6972,155,4,4,https://qldtbeta.phenikaa-uni.edu.vn/conggiangvien/login.aspx,296,0,0
+1792117226984,277,GET - Trang dang nhap (/conggiangvien/login.aspx),200,OK,1. Baseline - 10 users 1-1,text,true,,6972,155,4,4,https://qldtbeta.phenikaa-uni.edu.vn/conggiangvien/login.aspx,277,0,0
+1792117227500,231,GET - Trang chu (/),200,OK,1. Baseline - 10 users 1-2,text,true,,756,131,4,4,https://qldtbeta.phenikaa-uni.edu.vn/,231,0,0
+1792117227562,258,GET - Trang chu (/),200,OK,1. Baseline - 10 users 1-1,text,true,,756,131,5,5,https://qldtbeta.phenikaa-uni.edu.vn/,258,0,0
+1792117226048,2036,GET - Trang chu (/),200,OK,1. Baseline - 10 users 1-3,text,true,,756,131,5,5,https://qldtbeta.phenikaa-uni.edu.vn/,2036,0,2
+1792117228032,261,GET - Trang dang nhap (/conggiangvien/login.aspx),200,OK,1. Baseline - 10 users 1-2,text,true,,6972,155,5,5,https://qldtbeta.phenikaa-uni.edu.vn/conggiangvien/login.aspx,261,0,0
+1792117228386,371,GET - Trang dang nhap (/conggiangvien/login.aspx),200,OK,1. Baseline - 10 users 1-3,text,true,,6972,155,6,6,https://qldtbeta.phenikaa-uni.edu.vn/conggiangvien/login.aspx,371,0,0
+1792117228594,234,GET - Trang chu (/),200,OK,1. Baseline - 10 users 1-2,text,true,,756,131,6,6,https://qldtbeta.phenikaa-uni.edu.vn/,234,0,0
+1792117228122,851,GET - Trang dang nhap (/conggiangvien/login.aspx),200,OK,1. Baseline - 10 users 1-1,text,true,,6972,155,6,6,https://qldtbeta.phenikaa-uni.edu.vn/conggiangvien/login.aspx,851,0,0
+1792117227045,2239,GET - Trang chu (/),200,OK,1. Baseline - 10 users 1-4,text,true,,756,131,6,6,https://qldtbeta.phenikaa-uni.edu.vn/,2239,0,1
+1792117229058,347,GET - Trang chu (/),200,OK,1. Baseline - 10 users 1-3,text,true,,756,131,6,6,https://qldtbeta.phenikaa-uni.edu.vn/,347,0,0
+1792117229130,289,GET - Trang dang nhap (/conggiangvien/login.aspx),200,OK,1. Baseline - 10 users 1-2,text,true,,6972,155,6,6,https://qldtbeta.phenikaa-uni.edu.vn/conggiangvien/login.aspx,289,0,0
+1792117229274,257,GET - Trang chu (/),200,OK,1. Baseline - 10 users 1-1,text,true,,756,131,6,6,https://qldtbeta.phenikaa-uni.edu.vn/,257,0,0
+1792117228039,1814,GET - Trang chu (/),200,OK,1. Baseline - 10 users 1-5,text,true,,756,131,7,7,https://qldtbeta.phenikaa-uni.edu.vn/,1814,0,1
+1792117229586,411,GET - Trang dang nhap (/conggiangvien/login.aspx),200,OK,1. Baseline - 10 users 1-4,text,true,,6972,155,7,7,https://qldtbeta.phenikaa-uni.edu.vn/conggiangvien/login.aspx,411,0,0
+1792117229707,375,GET - Trang dang nhap (/conggiangvien/login.aspx),200,OK,1. Baseline - 10 users 1-3,text,true,,6972,155,7,7,https://qldtbeta.phenikaa-uni.edu.vn/conggiangvien/login.aspx,375,0,0
+1792117229832,281,GET - Trang dang nhap (/conggiangvien/login.aspx),200,OK,1. Baseline - 10 users 1-1,text,true,,6972,155,7,7,https://qldtbeta.phenikaa-uni.edu.vn/conggiangvien/login.aspx,281,0,0
+1792117229720,657,GET - Trang chu (/),200,OK,1. Baseline - 10 users 1-2,text,true,,756,131,7,7,https://qldtbeta.phenikaa-uni.edu.vn/,657,0,0
+1792117230154,322,GET - Trang dang nhap (/conggiangvien/login.aspx),200,OK,1. Baseline - 10 users 1-5,text,true,,6972,155,7,7,https://qldtbeta.phenikaa-uni.edu.vn/conggiangvien/login.aspx,322,0,0
+1792117230414,258,GET - Trang chu (/),200,OK,1. Baseline - 10 users 1-1,text,true,,756,131,7,7,https://qldtbeta.phenikaa-uni.edu.vn/,258,0,0
+1792117230299,385,GET - Trang chu (/),200,OK,1. Baseline - 10 users 1-4,text,true,,756,131,7,7,https://qldtbeta.phenikaa-uni.edu.vn/,385,0,0
+1792117230397,345,GET - Trang chu (/),200,OK,1. Baseline - 10 users 1-3,text,true,,756,131,8,8,https://qldtbeta.phenikaa-uni.edu.vn/,345,0,0
+1792117230678,256,GET - Trang dang nhap (/conggiangvien/login.aspx),200,OK,1. Baseline - 10 users 1-2,text,true,,6972,155,8,8,https://qldtbeta.phenikaa-uni.edu.vn/conggiangvien/login.aspx,256,0,0
+1792117230778,297,GET - Trang chu (/),200,OK,1. Baseline - 10 users 1-5,text,true,,756,131,8,8,https://qldtbeta.phenikaa-uni.edu.vn/,297,0,0
+1792117230973,282,GET - Trang dang nhap (/conggiangvien/login.aspx),200,OK,1. Baseline - 10 users 1-1,text,true,,6972,155,8,8,https://qldtbeta.phenikaa-uni.edu.vn/conggiangvien/login.aspx,282,0,0
+1792117230986,416,GET - Trang dang nhap (/conggiangvien/login.aspx),200,OK,1. Baseline - 10 users 1-4,text,true,,6972,155,8,8,https://qldtbeta.phenikaa-uni.edu.vn/conggiangvien/login.aspx,416,0,0
+1792117231043,376,GET - Trang dang nhap (/conggiangvien/login.aspx),200,OK,1. Baseline - 10 users 1-3,text,true,,6972,155,8,8,https://qldtbeta.phenikaa-uni.edu.vn/conggiangvien/login.aspx,376,0,0
+1792117231241,233,GET - Trang chu (/),200,OK,1. Baseline - 10 users 1-2,text,true,,756,131,8,8,https://qldtbeta.phenikaa-uni.edu.vn/,233,0,0
+1792117231376,327,GET - Trang dang nhap (/conggiangvien/login.aspx),200,OK,1. Baseline - 10 users 1-5,text,true,,6972,155,8,8,https://qldtbeta.phenikaa-uni.edu.vn/conggiangvien/login.aspx,327,0,0
+1792117231556,257,GET - Trang chu (/),200,OK,1. Baseline - 10 users 1-1,text,true,,756,131,9,9,https://qldtbeta.phenikaa-uni.edu.vn/,257,0,0
+1792117230037,1979,GET - Trang chu (/),200,OK,1. Baseline - 10 users 1-7,text,true,,756,131,9,9,https://qldtbeta.phenikaa-uni.edu.vn/,1979,0,3
+1792117231775,258,GET - Trang dang nhap (/conggiangvien/login.aspx),200,OK,1. Baseline - 10 users 1-2,text,true,,6972,155,9,9,https://qldtbeta.phenikaa-uni.edu.vn/conggiangvien/login.aspx,258,0,0
+1792117231720,346,GET - Trang chu (/),200,OK,1. Baseline - 10 users 1-3,text,true,,756,131,8,8,https://qldtbeta.phenikaa-uni.edu.vn/,346,0,0
+1792117231703,386,GET - Trang chu (/),200,OK,1. Baseline - 10 users 1-4,text,true,,756,131,8,8,https://qldtbeta.phenikaa-uni.edu.vn/,386,0,0
+1792117229039,3067,GET - Trang chu (/),200,OK,1. Baseline - 10 users 1-6,text,true,,756,131,8,8,https://qldtbeta.phenikaa-uni.edu.vn/,3067,0,1
+1792117232004,359,GET - Trang chu (/),200,OK,1. Baseline - 10 users 1-5,text,true,,756,131,8,8,https://qldtbeta.phenikaa-uni.edu.vn/,359,0,0
+1792117232122,287,GET - Trang dang nhap (/conggiangvien/login.aspx),200,OK,1. Baseline - 10 users 1-1,text,true,,6972,155,8,8,https://qldtbeta.phenikaa-uni.edu.vn/conggiangvien/login.aspx,287,0,0
+1792117232317,436,GET - Trang dang nhap (/conggiangvien/login.aspx),200,OK,1. Baseline - 10 users 1-7,text,true,,6972,155,8,8,https://qldtbeta.phenikaa-uni.edu.vn/conggiangvien/login.aspx,436,0,0
+1792117232367,389,GET - Trang dang nhap (/conggiangvien/login.aspx),200,OK,1. Baseline - 10 users 1-3,text,true,,6972,155,8,8,https://qldtbeta.phenikaa-uni.edu.vn/conggiangvien/login.aspx,389,0,0
+1792117232410,383,GET - Trang dang nhap (/conggiangvien/login.aspx),200,OK,1. Baseline - 10 users 1-6,text,true,,6972,155,8,8,https://qldtbeta.phenikaa-uni.edu.vn/conggiangvien/login.aspx,383,0,0
+1792117231038,1758,GET - Trang chu (/),200,OK,1. Baseline - 10 users 1-8,text,true,,756,131,8,8,https://qldtbeta.phenikaa-uni.edu.vn/,1758,0,1
+1792117232390,423,GET - Trang dang nhap (/conggiangvien/login.aspx),200,OK,1. Baseline - 10 users 1-4,text,true,,6972,155,8,8,https://qldtbeta.phenikaa-uni.edu.vn/conggiangvien/login.aspx,423,0,0
+1792117232664,325,GET - Trang dang nhap (/conggiangvien/login.aspx),200,OK,1. Baseline - 10 users 1-5,text,true,,6972,155,8,8,https://qldtbeta.phenikaa-uni.edu.vn/conggiangvien/login.aspx,325,0,0
+1792117233057,345,GET - Trang chu (/),200,OK,1. Baseline - 10 users 1-3,text,true,,756,131,8,8,https://qldtbeta.phenikaa-uni.edu.vn/,345,0,0
+1792117233054,350,GET - Trang chu (/),200,OK,1. Baseline - 10 users 1-7,text,true,,756,131,8,8,https://qldtbeta.phenikaa-uni.edu.vn/,350,0,0
+1792117233096,323,GET - Trang dang nhap (/conggiangvien/login.aspx),200,OK,1. Baseline - 10 users 1-8,text,true,,6972,155,8,8,https://qldtbeta.phenikaa-uni.edu.vn/conggiangvien/login.aspx,323,0,0
+1792117233094,348,GET - Trang chu (/),200,OK,1. Baseline - 10 users 1-6,text,true,,756,131,8,8,https://qldtbeta.phenikaa-uni.edu.vn/,348,0,0
+1792117233114,386,GET - Trang chu (/),200,OK,1. Baseline - 10 users 1-4,text,true,,756,131,8,8,https://qldtbeta.phenikaa-uni.edu.vn/,386,0,0
+1792117233290,296,GET - Trang chu (/),200,OK,1. Baseline - 10 users 1-5,text,true,,756,131,8,8,https://qldtbeta.phenikaa-uni.edu.vn/,296,0,0
+1792117232035,1658,GET - Trang chu (/),200,OK,1. Baseline - 10 users 1-9,text,true,,756,131,8,8,https://qldtbeta.phenikaa-uni.edu.vn/,1658,0,0
+1792117233720,297,GET - Trang chu (/),200,OK,1. Baseline - 10 users 1-8,text,true,,756,131,8,8,https://qldtbeta.phenikaa-uni.edu.vn/,297,0,0
+1792117233703,376,GET - Trang dang nhap (/conggiangvien/login.aspx),200,OK,1. Baseline - 10 users 1-3,text,true,,6972,155,8,8,https://qldtbeta.phenikaa-uni.edu.vn/conggiangvien/login.aspx,376,0,0
+1792117233704,397,GET - Trang dang nhap (/conggiangvien/login.aspx),200,OK,1. Baseline - 10 users 1-7,text,true,,6972,155,7,7,https://qldtbeta.phenikaa-uni.edu.vn/conggiangvien/login.aspx,397,0,0
+1792117233743,386,GET - Trang dang nhap (/conggiangvien/login.aspx),200,OK,1. Baseline - 10 users 1-6,text,true,,6972,155,7,7,https://qldtbeta.phenikaa-uni.edu.vn/conggiangvien/login.aspx,386,0,0
+1792117233887,322,GET - Trang dang nhap (/conggiangvien/login.aspx),200,OK,1. Baseline - 10 users 1-5,text,true,,6972,155,7,7,https://qldtbeta.phenikaa-uni.edu.vn/conggiangvien/login.aspx,322,0,0
+1792117233801,419,GET - Trang dang nhap (/conggiangvien/login.aspx),200,OK,1. Baseline - 10 users 1-4,text,true,,6972,155,7,7,https://qldtbeta.phenikaa-uni.edu.vn/conggiangvien/login.aspx,419,0,0
+1792117233994,308,GET - Trang dang nhap (/conggiangvien/login.aspx),200,OK,1. Baseline - 10 users 1-9,text,true,,6972,155,7,7,https://qldtbeta.phenikaa-uni.edu.vn/conggiangvien/login.aspx,308,0,0
+1792117233034,1443,GET - Trang chu (/),200,OK,1. Baseline - 10 users 1-10,text,true,,756,131,7,7,https://qldtbeta.phenikaa-uni.edu.vn/,1443,0,2
+1792117234320,323,GET - Trang dang nhap (/conggiangvien/login.aspx),200,OK,1. Baseline - 10 users 1-8,text,true,,6972,155,7,7,https://qldtbeta.phenikaa-uni.edu.vn/conggiangvien/login.aspx,323,0,0
+1792117234402,351,GET - Trang chu (/),200,OK,1. Baseline - 10 users 1-7,text,true,,756,131,7,7,https://qldtbeta.phenikaa-uni.edu.vn/,351,0,0
+1792117234432,349,GET - Trang chu (/),200,OK,1. Baseline - 10 users 1-6,text,true,,756,131,7,7,https://qldtbeta.phenikaa-uni.edu.vn/,349,0,0
+1792117234511,296,GET - Trang chu (/),200,OK,1. Baseline - 10 users 1-5,text,true,,756,131,7,7,https://qldtbeta.phenikaa-uni.edu.vn/,296,0,0
+1792117234603,278,GET - Trang chu (/),200,OK,1. Baseline - 10 users 1-9,text,true,,756,131,7,7,https://qldtbeta.phenikaa-uni.edu.vn/,278,0,0
+1792117234521,388,GET - Trang chu (/),200,OK,1. Baseline - 10 users 1-4,text,true,,756,131,7,7,https://qldtbeta.phenikaa-uni.edu.vn/,388,0,0
+1792117234778,260,GET - Trang dang nhap (/conggiangvien/login.aspx),200,OK,1. Baseline - 10 users 1-10,text,true,,6972,155,7,7,https://qldtbeta.phenikaa-uni.edu.vn/conggiangvien/login.aspx,260,0,0
+1792117234944,295,GET - Trang chu (/),200,OK,1. Baseline - 10 users 1-8,text,true,,756,131,7,7,https://qldtbeta.phenikaa-uni.edu.vn/,295,0,0
+1792117235054,382,GET - Trang dang nhap (/conggiangvien/login.aspx),200,OK,1. Baseline - 10 users 1-7,text,true,,6972,155,7,7,https://qldtbeta.phenikaa-uni.edu.vn/conggiangvien/login.aspx,382,0,0
+1792117235107,331,GET - Trang dang nhap (/conggiangvien/login.aspx),200,OK,1. Baseline - 10 users 1-5,text,true,,6972,155,7,7,https://qldtbeta.phenikaa-uni.edu.vn/conggiangvien/login.aspx,331,0,0
+1792117235081,396,GET - Trang dang nhap (/conggiangvien/login.aspx),200,OK,1. Baseline - 10 users 1-6,text,true,,6972,155,6,6,https://qldtbeta.phenikaa-uni.edu.vn/conggiangvien/login.aspx,395,0,0
+1792117235182,300,GET - Trang dang nhap (/conggiangvien/login.aspx),200,OK,1. Baseline - 10 users 1-9,text,true,,6972,155,6,6,https://qldtbeta.phenikaa-uni.edu.vn/conggiangvien/login.aspx,300,0,0
+1792117235339,244,GET - Trang chu (/),200,OK,1. Baseline - 10 users 1-10,text,true,,756,131,6,6,https://qldtbeta.phenikaa-uni.edu.vn/,244,0,0
+1792117235210,414,GET - Trang dang nhap (/conggiangvien/login.aspx),200,OK,1. Baseline - 10 users 1-4,text,true,,6972,155,6,6,https://qldtbeta.phenikaa-uni.edu.vn/conggiangvien/login.aspx,414,0,0
+1792117235540,323,GET - Trang dang nhap (/conggiangvien/login.aspx),200,OK,1. Baseline - 10 users 1-8,text,true,,6972,155,5,5,https://qldtbeta.phenikaa-uni.edu.vn/conggiangvien/login.aspx,323,0,0
+1792117235782,272,GET - Trang chu (/),200,OK,1. Baseline - 10 users 1-9,text,true,,756,131,5,5,https://qldtbeta.phenikaa-uni.edu.vn/,272,0,0
+1792117235737,350,GET - Trang chu (/),200,OK,1. Baseline - 10 users 1-7,text,true,,756,131,5,5,https://qldtbeta.phenikaa-uni.edu.vn/,350,0,0
+1792117235777,352,GET - Trang chu (/),200,OK,1. Baseline - 10 users 1-6,text,true,,756,131,5,5,https://qldtbeta.phenikaa-uni.edu.vn/,352,0,0
+1792117235884,258,GET - Trang dang nhap (/conggiangvien/login.aspx),200,OK,1. Baseline - 10 users 1-10,text,true,,6972,155,5,5,https://qldtbeta.phenikaa-uni.edu.vn/conggiangvien/login.aspx,258,0,0
+1792117236164,294,GET - Trang chu (/),200,OK,1. Baseline - 10 users 1-8,text,true,,756,131,5,5,https://qldtbeta.phenikaa-uni.edu.vn/,294,0,0
+1792117236355,303,GET - Trang dang nhap (/conggiangvien/login.aspx),200,OK,1. Baseline - 10 users 1-9,text,true,,6972,155,5,5,https://qldtbeta.phenikaa-uni.edu.vn/conggiangvien/login.aspx,303,0,0
+1792117236442,243,GET - Trang chu (/),200,OK,1. Baseline - 10 users 1-10,text,true,,756,131,5,5,https://qldtbeta.phenikaa-uni.edu.vn/,243,0,0
+1792117236388,382,GET - Trang dang nhap (/conggiangvien/login.aspx),200,OK,1. Baseline - 10 users 1-7,text,true,,6972,155,5,5,https://qldtbeta.phenikaa-uni.edu.vn/conggiangvien/login.aspx,382,0,0
+1792117236430,374,GET - Trang dang nhap (/conggiangvien/login.aspx),200,OK,1. Baseline - 10 users 1-6,text,true,,6972,155,5,5,https://qldtbeta.phenikaa-uni.edu.vn/conggiangvien/login.aspx,374,0,0
+1792117236759,326,GET - Trang dang nhap (/conggiangvien/login.aspx),200,OK,1. Baseline - 10 users 1-8,text,true,,6972,155,5,5,https://qldtbeta.phenikaa-uni.edu.vn/conggiangvien/login.aspx,326,0,0
+1792117236960,274,GET - Trang chu (/),200,OK,1. Baseline - 10 users 1-9,text,true,,756,131,5,5,https://qldtbeta.phenikaa-uni.edu.vn/,273,0,0
+1792117236986,256,GET - Trang dang nhap (/conggiangvien/login.aspx),200,OK,1. Baseline - 10 users 1-10,text,true,,6972,155,5,5,https://qldtbeta.phenikaa-uni.edu.vn/conggiangvien/login.aspx,256,0,0
+1792117237071,348,GET - Trang chu (/),200,OK,1. Baseline - 10 users 1-7,text,true,,756,131,5,5,https://qldtbeta.phenikaa-uni.edu.vn/,348,0,0
+1792117237105,352,GET - Trang chu (/),200,OK,1. Baseline - 10 users 1-6,text,true,,756,131,5,5,https://qldtbeta.phenikaa-uni.edu.vn/,351,0,0
+1792117237386,296,GET - Trang chu (/),200,OK,1. Baseline - 10 users 1-8,text,true,,756,131,5,5,https://qldtbeta.phenikaa-uni.edu.vn/,296,0,0
+1792117237543,241,GET - Trang chu (/),200,OK,1. Baseline - 10 users 1-10,text,true,,756,131,5,5,https://qldtbeta.phenikaa-uni.edu.vn/,241,0,0
+1792117237535,302,GET - Trang dang nhap (/conggiangvien/login.aspx),200,OK,1. Baseline - 10 users 1-9,text,true,,6972,155,5,5,https://qldtbeta.phenikaa-uni.edu.vn/conggiangvien/login.aspx,302,0,0
+1792117237720,374,GET - Trang dang nhap (/conggiangvien/login.aspx),200,OK,1. Baseline - 10 users 1-7,text,true,,6972,155,5,5,https://qldtbeta.phenikaa-uni.edu.vn/conggiangvien/login.aspx,374,0,0
+1792117237757,376,GET - Trang dang nhap (/conggiangvien/login.aspx),200,OK,1. Baseline - 10 users 1-6,text,true,,6972,155,4,4,https://qldtbeta.phenikaa-uni.edu.vn/conggiangvien/login.aspx,375,0,0
+1792117237983,320,GET - Trang dang nhap (/conggiangvien/login.aspx),200,OK,1. Baseline - 10 users 1-8,text,true,,6972,155,3,3,https://qldtbeta.phenikaa-uni.edu.vn/conggiangvien/login.aspx,320,0,0
+1792117238085,261,GET - Trang dang nhap (/conggiangvien/login.aspx),200,OK,1. Baseline - 10 users 1-10,text,true,,6972,155,2,2,https://qldtbeta.phenikaa-uni.edu.vn/conggiangvien/login.aspx,261,0,0
+1792117238138,272,GET - Trang chu (/),200,OK,1. Baseline - 10 users 1-9,text,true,,756,131,2,2,https://qldtbeta.phenikaa-uni.edu.vn/,272,0,0
+1792117238647,244,GET - Trang chu (/),200,OK,1. Baseline - 10 users 1-10,text,true,,756,131,2,2,https://qldtbeta.phenikaa-uni.edu.vn/,244,0,0
+1792117238711,311,GET - Trang dang nhap (/conggiangvien/login.aspx),200,OK,1. Baseline - 10 users 1-9,text,true,,6972,155,2,2,https://qldtbeta.phenikaa-uni.edu.vn/conggiangvien/login.aspx,311,0,0
+1792117239192,257,GET - Trang dang nhap (/conggiangvien/login.aspx),200,OK,1. Baseline - 10 users 1-10,text,true,,6972,155,1,1,https://qldtbeta.phenikaa-uni.edu.vn/conggiangvien/login.aspx,257,0,0
+1792117239754,2215,GET - Trang chu (/),200,OK,2. Stress nhe - 25 users 2-1,text,true,,756,131,5,5,https://qldtbeta.phenikaa-uni.edu.vn/,2215,0,1
+1792117240356,1912,GET - Trang chu (/),200,OK,2. Stress nhe - 25 users 2-2,text,true,,756,131,5,5,https://qldtbeta.phenikaa-uni.edu.vn/,1911,0,1
+1792117240954,1614,GET - Trang chu (/),200,OK,2. Stress nhe - 25 users 2-3,text,true,,756,131,6,6,https://qldtbeta.phenikaa-uni.edu.vn/,1614,0,2
+1792117242269,419,GET - Trang dang nhap (/conggiangvien/login.aspx),200,OK,2. Stress nhe - 25 users 2-1,text,true,,6972,155,6,6,https://qldtbeta.phenikaa-uni.edu.vn/conggiangvien/login.aspx,419,0,0
+1792117242569,363,GET - Trang dang nhap (/conggiangvien/login.aspx),200,OK,2. Stress nhe - 25 users 2-2,text,true,,6972,155,6,6,https://qldtbeta.phenikaa-uni.edu.vn/conggiangvien/login.aspx,362,0,0
+1792117242870,321,GET - Trang dang nhap (/conggiangvien/login.aspx),200,OK,2. Stress nhe - 25 users 2-3,text,true,,6972,155,7,7,https://qldtbeta.phenikaa-uni.edu.vn/conggiangvien/login.aspx,321,0,0
+1792117242989,378,GET - Trang chu (/),200,OK,2. Stress nhe - 25 users 2-1,text,true,,756,131,7,7,https://qldtbeta.phenikaa-uni.edu.vn/,378,0,0
+1792117243233,320,GET - Trang chu (/),200,OK,2. Stress nhe - 25 users 2-2,text,true,,756,131,7,7,https://qldtbeta.phenikaa-uni.edu.vn/,320,0,0
+1792117241555,2035,GET - Trang chu (/),200,OK,2. Stress nhe - 25 users 2-4,text,true,,756,131,7,7,https://qldtbeta.phenikaa-uni.edu.vn/,2035,0,2
+1792117243494,271,GET - Trang chu (/),200,OK,2. Stress nhe - 25 users 2-3,text,true,,756,131,8,8,https://qldtbeta.phenikaa-uni.edu.vn/,271,0,0
+1792117243668,418,GET - Trang dang nhap (/conggiangvien/login.aspx),200,OK,2. Stress nhe - 25 users 2-1,text,true,,6972,155,8,8,https://qldtbeta.phenikaa-uni.edu.vn/conggiangvien/login.aspx,418,0,0
+1792117242156,1975,GET - Trang chu (/),200,OK,2. Stress nhe - 25 users 2-5,text,true,,756,131,8,8,https://qldtbeta.phenikaa-uni.edu.vn/,1975,0,4
+1792117243854,369,GET - Trang dang nhap (/conggiangvien/login.aspx),200,OK,2. Stress nhe - 25 users 2-2,text,true,,6972,155,8,8,https://qldtbeta.phenikaa-uni.edu.vn/conggiangvien/login.aspx,369,0,0
+1792117243891,407,GET - Trang dang nhap (/conggiangvien/login.aspx),200,OK,2. Stress nhe - 25 users 2-4,text,true,,6972,155,9,9,https://qldtbeta.phenikaa-uni.edu.vn/conggiangvien/login.aspx,407,0,0
+1792117244066,326,GET - Trang dang nhap (/conggiangvien/login.aspx),200,OK,2. Stress nhe - 25 users 2-3,text,true,,6972,155,9,9,https://qldtbeta.phenikaa-uni.edu.vn/conggiangvien/login.aspx,326,0,0
+1792117242755,1664,GET - Trang chu (/),200,OK,2. Stress nhe - 25 users 2-6,text,true,,756,131,9,9,https://qldtbeta.phenikaa-uni.edu.vn/,1664,0,2
+1792117244387,375,GET - Trang chu (/),200,OK,2. Stress nhe - 25 users 2-1,text,true,,756,131,9,9,https://qldtbeta.phenikaa-uni.edu.vn/,375,0,0
+1792117244432,372,GET - Trang dang nhap (/conggiangvien/login.aspx),200,OK,2. Stress nhe - 25 users 2-5,text,true,,6972,155,9,9,https://qldtbeta.phenikaa-uni.edu.vn/conggiangvien/login.aspx,372,0,0
+1792117244539,326,GET - Trang chu (/),200,OK,2. Stress nhe - 25 users 2-2,text,true,,756,131,10,10,https://qldtbeta.phenikaa-uni.edu.vn/,326,0,0
+1792117244600,349,GET - Trang chu (/),200,OK,2. Stress nhe - 25 users 2-4,text,true,,756,131,10,10,https://qldtbeta.phenikaa-uni.edu.vn/,349,0,0
+1792117244693,271,GET - Trang chu (/),200,OK,2. Stress nhe - 25 users 2-3,text,true,,756,131,10,10,https://qldtbeta.phenikaa-uni.edu.vn/,271,0,0
+1792117244719,332,GET - Trang dang nhap (/conggiangvien/login.aspx),200,OK,2. Stress nhe - 25 users 2-6,text,true,,6972,155,10,10,https://qldtbeta.phenikaa-uni.edu.vn/conggiangvien/login.aspx,332,0,0
+1792117245105,350,GET - Trang chu (/),200,OK,2. Stress nhe - 25 users 2-5,text,true,,756,131,11,11,https://qldtbeta.phenikaa-uni.edu.vn/,350,0,0
+1792117245063,418,GET - Trang dang nhap (/conggiangvien/login.aspx),200,OK,2. Stress nhe - 25 users 2-1,text,true,,6972,155,11,11,https://qldtbeta.phenikaa-uni.edu.vn/conggiangvien/login.aspx,417,0,0
+1792117243954,1531,GET - Trang chu (/),200,OK,2. Stress nhe - 25 users 2-8,text,true,,756,131,10,10,https://qldtbeta.phenikaa-uni.edu.vn/,1531,0,1
+1792117245166,371,GET - Trang dang nhap (/conggiangvien/login.aspx),200,OK,2. Stress nhe - 25 users 2-2,text,true,,6972,155,10,10,https://qldtbeta.phenikaa-uni.edu.vn/conggiangvien/login.aspx,371,0,0
+1792117245352,267,GET - Trang chu (/),200,OK,2. Stress nhe - 25 users 2-6,text,true,,756,131,9,9,https://qldtbeta.phenikaa-uni.edu.vn/,267,0,0
+1792117245250,394,GET - Trang dang nhap (/conggiangvien/login.aspx),200,OK,2. Stress nhe - 25 users 2-4,text,true,,6972,155,9,9,https://qldtbeta.phenikaa-uni.edu.vn/conggiangvien/login.aspx,393,0,0
+1792117245265,811,GET - Trang dang nhap (/conggiangvien/login.aspx),200,OK,2. Stress nhe - 25 users 2-3,text,true,,6972,155,10,10,https://qldtbeta.phenikaa-uni.edu.vn/conggiangvien/login.aspx,811,0,0
+1792117245786,316,GET - Trang dang nhap (/conggiangvien/login.aspx),200,OK,2. Stress nhe - 25 users 2-8,text,true,,6972,155,9,9,https://qldtbeta.phenikaa-uni.edu.vn/conggiangvien/login.aspx,316,0,0
+1792117245757,383,GET - Trang dang nhap (/conggiangvien/login.aspx),200,OK,2. Stress nhe - 25 users 2-5,text,true,,6972,155,9,9,https://qldtbeta.phenikaa-uni.edu.vn/conggiangvien/login.aspx,383,0,0
+1792117245920,304,GET - Trang dang nhap (/conggiangvien/login.aspx),200,OK,2. Stress nhe - 25 users 2-6,text,true,,6972,155,9,9,https://qldtbeta.phenikaa-uni.edu.vn/conggiangvien/login.aspx,304,0,0
+1792117245945,349,GET - Trang chu (/),200,OK,2. Stress nhe - 25 users 2-4,text,true,,756,131,9,9,https://qldtbeta.phenikaa-uni.edu.vn/,349,0,0
+1792117243353,2950,GET - Trang chu (/),200,OK,2. Stress nhe - 25 users 2-7,text,true,,756,131,9,9,https://qldtbeta.phenikaa-uni.edu.vn/,2949,0,1
+1792117246403,255,GET - Trang chu (/),200,OK,2. Stress nhe - 25 users 2-8,text,true,,756,131,10,10,https://qldtbeta.phenikaa-uni.edu.vn/,255,0,0
+1792117244562,2129,GET - Trang chu (/),200,OK,2. Stress nhe - 25 users 2-9,text,true,,756,131,10,10,https://qldtbeta.phenikaa-uni.edu.vn/,2129,0,1
+1792117246441,350,GET - Trang chu (/),200,OK,2. Stress nhe - 25 users 2-5,text,true,,756,131,10,10,https://qldtbeta.phenikaa-uni.edu.vn/,350,0,0
+1792117246525,269,GET - Trang chu (/),200,OK,2. Stress nhe - 25 users 2-6,text,true,,756,131,10,10,https://qldtbeta.phenikaa-uni.edu.vn/,269,0,0
+1792117246595,392,GET - Trang dang nhap (/conggiangvien/login.aspx),200,OK,2. Stress nhe - 25 users 2-4,text,true,,6972,155,10,10,https://qldtbeta.phenikaa-uni.edu.vn/conggiangvien/login.aspx,392,0,0
+1792117246604,424,GET - Trang dang nhap (/conggiangvien/login.aspx),200,OK,2. Stress nhe - 25 users 2-7,text,true,,6972,155,9,9,https://qldtbeta.phenikaa-uni.edu.vn/conggiangvien/login.aspx,424,0,0
+1792117245154,2026,GET - Trang chu (/),200,OK,2. Stress nhe - 25 users 2-10,text,true,,756,131,9,9,https://qldtbeta.phenikaa-uni.edu.vn/,2026,0,2
+1792117246959,314,GET - Trang dang nhap (/conggiangvien/login.aspx),200,OK,2. Stress nhe - 25 users 2-8,text,true,,6972,155,10,10,https://qldtbeta.phenikaa-uni.edu.vn/conggiangvien/login.aspx,314,0,0
+1792117246992,414,GET - Trang dang nhap (/conggiangvien/login.aspx),200,OK,2. Stress nhe - 25 users 2-9,text,true,,6972,155,10,10,https://qldtbeta.phenikaa-uni.edu.vn/conggiangvien/login.aspx,413,0,0
+1792117247095,326,GET - Trang dang nhap (/conggiangvien/login.aspx),200,OK,2. Stress nhe - 25 users 2-6,text,true,,6972,155,10,10,https://qldtbeta.phenikaa-uni.edu.vn/conggiangvien/login.aspx,326,0,0
+1792117247092,360,GET - Trang dang nhap (/conggiangvien/login.aspx),200,OK,2. Stress nhe - 25 users 2-5,text,true,,6972,155,9,9,https://qldtbeta.phenikaa-uni.edu.vn/conggiangvien/login.aspx,360,0,0
+1792117247330,372,GET - Trang chu (/),200,OK,2. Stress nhe - 25 users 2-7,text,true,,756,131,8,8,https://qldtbeta.phenikaa-uni.edu.vn/,372,0,0
+1792117247574,256,GET - Trang chu (/),200,OK,2. Stress nhe - 25 users 2-8,text,true,,756,131,8,8,https://qldtbeta.phenikaa-uni.edu.vn/,256,0,0
+1792117247481,372,GET - Trang dang nhap (/conggiangvien/login.aspx),200,OK,2. Stress nhe - 25 users 2-10,text,true,,6972,155,9,9,https://qldtbeta.phenikaa-uni.edu.vn/conggiangvien/login.aspx,372,0,0
+1792117247708,373,GET - Trang chu (/),200,OK,2. Stress nhe - 25 users 2-9,text,true,,756,131,9,9,https://qldtbeta.phenikaa-uni.edu.vn/,373,0,0
+1792117246354,1761,GET - Trang chu (/),200,OK,2. Stress nhe - 25 users 2-12,text,true,,756,131,9,9,https://qldtbeta.phenikaa-uni.edu.vn/,1761,0,1
+1792117248002,415,GET - Trang dang nhap (/conggiangvien/login.aspx),200,OK,2. Stress nhe - 25 users 2-7,text,true,,6972,155,9,9,https://qldtbeta.phenikaa-uni.edu.vn/conggiangvien/login.aspx,415,0,0
+1792117248130,297,GET - Trang dang nhap (/conggiangvien/login.aspx),200,OK,2. Stress nhe - 25 users 2-8,text,true,,6972,155,9,9,https://qldtbeta.phenikaa-uni.edu.vn/conggiangvien/login.aspx,297,0,0
+1792117246954,1534,GET - Trang chu (/),200,OK,2. Stress nhe - 25 users 2-13,text,true,,756,131,9,9,https://qldtbeta.phenikaa-uni.edu.vn/,1534,0,1
+1792117248154,352,GET - Trang chu (/),200,OK,2. Stress nhe - 25 users 2-10,text,true,,756,131,9,9,https://qldtbeta.phenikaa-uni.edu.vn/,352,0,0
+1792117248416,339,GET - Trang dang nhap (/conggiangvien/login.aspx),200,OK,2. Stress nhe - 25 users 2-12,text,true,,6972,155,9,9,https://qldtbeta.phenikaa-uni.edu.vn/conggiangvien/login.aspx,339,0,0
+1792117248382,431,GET - Trang dang nhap (/conggiangvien/login.aspx),200,OK,2. Stress nhe - 25 users 2-9,text,true,,6972,155,9,9,https://qldtbeta.phenikaa-uni.edu.vn/conggiangvien/login.aspx,431,0,0
+1792117245755,3144,GET - Trang chu (/),200,OK,2. Stress nhe - 25 users 2-11,text,true,,756,131,9,9,https://qldtbeta.phenikaa-uni.edu.vn/,3144,0,1
+1792117248718,370,GET - Trang chu (/),200,OK,2. Stress nhe - 25 users 2-7,text,true,,756,131,10,10,https://qldtbeta.phenikaa-uni.edu.vn/,370,0,0
+1792117248789,307,GET - Trang dang nhap (/conggiangvien/login.aspx),200,OK,2. Stress nhe - 25 users 2-13,text,true,,6972,155,10,10,https://qldtbeta.phenikaa-uni.edu.vn/conggiangvien/login.aspx,307,0,0
+1792117247554,1652,GET - Trang chu (/),200,OK,2. Stress nhe - 25 users 2-14,text,true,,756,131,10,10,https://qldtbeta.phenikaa-uni.edu.vn/,1652,0,2
+1792117248807,425,GET - Trang dang nhap (/conggiangvien/login.aspx),200,OK,2. Stress nhe - 25 users 2-10,text,true,,6972,155,10,10,https://qldtbeta.phenikaa-uni.edu.vn/conggiangvien/login.aspx,425,0,0
+1792117249056,281,GET - Trang chu (/),200,OK,2. Stress nhe - 25 users 2-12,text,true,,756,131,10,10,https://qldtbeta.phenikaa-uni.edu.vn/,281,0,0
+1792117249200,427,GET - Trang dang nhap (/conggiangvien/login.aspx),200,OK,2. Stress nhe - 25 users 2-11,text,true,,6972,155,10,10,https://qldtbeta.phenikaa-uni.edu.vn/conggiangvien/login.aspx,427,0,0
+1792117248154,1542,GET - Trang chu (/),200,OK,2. Stress nhe - 25 users 2-15,text,true,,756,131,11,11,https://qldtbeta.phenikaa-uni.edu.vn/,1542,0,1
+1792117249397,316,GET - Trang chu (/),200,OK,2. Stress nhe - 25 users 2-13,text,true,,756,131,11,11,https://qldtbeta.phenikaa-uni.edu.vn/,316,0,0
+1792117249114,637,GET - Trang chu (/),200,OK,2. Stress nhe - 25 users 2-9,text,true,,756,131,11,11,https://qldtbeta.phenikaa-uni.edu.vn/,637,0,0
+1792117249389,421,GET - Trang dang nhap (/conggiangvien/login.aspx),200,OK,2. Stress nhe - 25 users 2-7,text,true,,6972,155,11,11,https://qldtbeta.phenikaa-uni.edu.vn/conggiangvien/login.aspx,420,0,0
+1792117249507,331,GET - Trang dang nhap (/conggiangvien/login.aspx),200,OK,2. Stress nhe - 25 users 2-14,text,true,,6972,155,10,10,https://qldtbeta.phenikaa-uni.edu.vn/conggiangvien/login.aspx,331,0,0
+1792117249533,353,GET - Trang chu (/),200,OK,2. Stress nhe - 25 users 2-10,text,true,,756,131,10,10,https://qldtbeta.phenikaa-uni.edu.vn/,353,0,0
+1792117249638,340,GET - Trang dang nhap (/conggiangvien/login.aspx),200,OK,2. Stress nhe - 25 users 2-12,text,true,,6972,155,10,10,https://qldtbeta.phenikaa-uni.edu.vn/conggiangvien/login.aspx,340,0,0
+1792117249998,281,GET - Trang dang nhap (/conggiangvien/login.aspx),200,OK,2. Stress nhe - 25 users 2-15,text,true,,6972,155,11,11,https://qldtbeta.phenikaa-uni.edu.vn/conggiangvien/login.aspx,281,0,0
+1792117249927,375,GET - Trang chu (/),200,OK,2. Stress nhe - 25 users 2-11,text,true,,756,131,11,11,https://qldtbeta.phenikaa-uni.edu.vn/,375,0,0
+1792117250014,302,GET - Trang dang nhap (/conggiangvien/login.aspx),200,OK,2. Stress nhe - 25 users 2-13,text,true,,6972,155,11,11,https://qldtbeta.phenikaa-uni.edu.vn/conggiangvien/login.aspx,302,0,0
+1792117250139,274,GET - Trang chu (/),200,OK,2. Stress nhe - 25 users 2-14,text,true,,756,131,11,11,https://qldtbeta.phenikaa-uni.edu.vn/,274,0,0
+1792117250051,423,GET - Trang dang nhap (/conggiangvien/login.aspx),200,OK,2. Stress nhe - 25 users 2-9,text,true,,6972,155,11,11,https://qldtbeta.phenikaa-uni.edu.vn/conggiangvien/login.aspx,422,0,0
+1792117250279,282,GET - Trang chu (/),200,OK,2. Stress nhe - 25 users 2-12,text,true,,756,131,10,10,https://qldtbeta.phenikaa-uni.edu.vn/,282,0,0
+1792117250186,416,GET - Trang dang nhap (/conggiangvien/login.aspx),200,OK,2. Stress nhe - 25 users 2-10,text,true,,6972,155,10,10,https://qldtbeta.phenikaa-uni.edu.vn/conggiangvien/login.aspx,416,0,0
+1792117250580,222,GET - Trang chu (/),200,OK,2. Stress nhe - 25 users 2-15,text,true,,756,131,9,9,https://qldtbeta.phenikaa-uni.edu.vn/,222,0,0
+1792117248753,2106,GET - Trang chu (/),200,OK,2. Stress nhe - 25 users 2-16,text,true,,756,131,10,10,https://qldtbeta.phenikaa-uni.edu.vn/,2106,0,1
+1792117250617,246,GET - Trang chu (/),200,OK,2. Stress nhe - 25 users 2-13,text,true,,756,131,10,10,https://qldtbeta.phenikaa-uni.edu.vn/,246,0,0
+1792117250603,395,GET - Trang dang nhap (/conggiangvien/login.aspx),200,OK,2. Stress nhe - 25 users 2-11,text,true,,6972,155,10,10,https://qldtbeta.phenikaa-uni.edu.vn/conggiangvien/login.aspx,395,0,0
+1792117250714,331,GET - Trang dang nhap (/conggiangvien/login.aspx),200,OK,2. Stress nhe - 25 users 2-14,text,true,,6972,155,10,10,https://qldtbeta.phenikaa-uni.edu.vn/conggiangvien/login.aspx,331,0,0
+1792117250862,341,GET - Trang dang nhap (/conggiangvien/login.aspx),200,OK,2. Stress nhe - 25 users 2-12,text,true,,6972,155,10,10,https://qldtbeta.phenikaa-uni.edu.vn/conggiangvien/login.aspx,341,0,0
+1792117251103,281,GET - Trang dang nhap (/conggiangvien/login.aspx),200,OK,2. Stress nhe - 25 users 2-15,text,true,,6972,155,9,9,https://qldtbeta.phenikaa-uni.edu.vn/conggiangvien/login.aspx,281,0,0
+1792117249354,2042,GET - Trang chu (/),200,OK,2. Stress nhe - 25 users 2-17,text,true,,756,131,9,9,https://qldtbeta.phenikaa-uni.edu.vn/,2042,0,1
+1792117251163,303,GET - Trang dang nhap (/conggiangvien/login.aspx),200,OK,2. Stress nhe - 25 users 2-13,text,true,,6972,155,10,10,https://qldtbeta.phenikaa-uni.edu.vn/conggiangvien/login.aspx,303,0,0
+1792117251160,408,GET - Trang dang nhap (/conggiangvien/login.aspx),200,OK,2. Stress nhe - 25 users 2-16,text,true,,6972,155,9,9,https://qldtbeta.phenikaa-uni.edu.vn/conggiangvien/login.aspx,408,0,0
+1792117251346,275,GET - Trang chu (/),200,OK,2. Stress nhe - 25 users 2-14,text,true,,756,131,9,9,https://qldtbeta.phenikaa-uni.edu.vn/,275,0,0
+1792117251299,376,GET - Trang chu (/),200,OK,2. Stress nhe - 25 users 2-11,text,true,,756,131,9,9,https://qldtbeta.phenikaa-uni.edu.vn/,376,0,0
+1792117249954,1811,GET - Trang chu (/),200,OK,2. Stress nhe - 25 users 2-18,text,true,,756,131,9,9,https://qldtbeta.phenikaa-uni.edu.vn/,1811,0,2
+1792117251685,223,GET - Trang chu (/),200,OK,2. Stress nhe - 25 users 2-15,text,true,,756,131,9,9,https://qldtbeta.phenikaa-uni.edu.vn/,223,0,0
+1792117251696,392,GET - Trang dang nhap (/conggiangvien/login.aspx),200,OK,2. Stress nhe - 25 users 2-17,text,true,,6972,155,10,10,https://qldtbeta.phenikaa-uni.edu.vn/conggiangvien/login.aspx,392,0,0
+1792117251869,374,GET - Trang chu (/),200,OK,2. Stress nhe - 25 users 2-16,text,true,,756,131,10,10,https://qldtbeta.phenikaa-uni.edu.vn/,374,0,0
+1792117251922,330,GET - Trang dang nhap (/conggiangvien/login.aspx),200,OK,2. Stress nhe - 25 users 2-14,text,true,,6972,155,10,10,https://qldtbeta.phenikaa-uni.edu.vn/conggiangvien/login.aspx,330,0,0
+1792117251975,425,GET - Trang dang nhap (/conggiangvien/login.aspx),200,OK,2. Stress nhe - 25 users 2-11,text,true,,6972,155,9,9,https://qldtbeta.phenikaa-uni.edu.vn/conggiangvien/login.aspx,424,0,0
+1792117252068,362,GET - Trang dang nhap (/conggiangvien/login.aspx),200,OK,2. Stress nhe - 25 users 2-18,text,true,,6972,155,8,8,https://qldtbeta.phenikaa-uni.edu.vn/conggiangvien/login.aspx,362,0,0
+1792117252209,284,GET - Trang dang nhap (/conggiangvien/login.aspx),200,OK,2. Stress nhe - 25 users 2-15,text,true,,6972,155,8,8,https://qldtbeta.phenikaa-uni.edu.vn/conggiangvien/login.aspx,284,0,0
+1792117251153,1405,GET - Trang chu (/),200,OK,2. Stress nhe - 25 users 2-20,text,true,,756,131,7,7,https://qldtbeta.phenikaa-uni.edu.vn/,1405,0,2
+1792117250554,2086,GET - Trang chu (/),200,OK,2. Stress nhe - 25 users 2-19,text,true,,756,131,7,7,https://qldtbeta.phenikaa-uni.edu.vn/,2086,0,1
+1792117252389,344,GET - Trang chu (/),200,OK,2. Stress nhe - 25 users 2-17,text,true,,756,131,8,8,https://qldtbeta.phenikaa-uni.edu.vn/,344,0,0
+1792117252543,411,GET - Trang dang nhap (/conggiangvien/login.aspx),200,OK,2. Stress nhe - 25 users 2-16,text,true,,6972,155,8,8,https://qldtbeta.phenikaa-uni.edu.vn/conggiangvien/login.aspx,411,0,0
+1792117252731,303,GET - Trang chu (/),200,OK,2. Stress nhe - 25 users 2-18,text,true,,756,131,8,8,https://qldtbeta.phenikaa-uni.edu.vn/,303,0,0
+1792117252859,299,GET - Trang dang nhap (/conggiangvien/login.aspx),200,OK,2. Stress nhe - 25 users 2-20,text,true,,6972,155,8,8,https://qldtbeta.phenikaa-uni.edu.vn/conggiangvien/login.aspx,299,0,0
+1792117251758,1491,GET - Trang chu (/),200,OK,2. Stress nhe - 25 users 2-21,text,true,,756,131,8,8,https://qldtbeta.phenikaa-uni.edu.vn/,1491,0,1
+1792117252941,413,GET - Trang dang nhap (/conggiangvien/login.aspx),200,OK,2. Stress nhe - 25 users 2-19,text,true,,6972,155,9,9,https://qldtbeta.phenikaa-uni.edu.vn/conggiangvien/login.aspx,413,0,0
+1792117253034,394,GET - Trang dang nhap (/conggiangvien/login.aspx),200,OK,2. Stress nhe - 25 users 2-17,text,true,,6972,155,9,9,https://qldtbeta.phenikaa-uni.edu.vn/conggiangvien/login.aspx,394,0,0
+1792117253255,377,GET - Trang chu (/),200,OK,2. Stress nhe - 25 users 2-16,text,true,,756,131,9,9,https://qldtbeta.phenikaa-uni.edu.vn/,377,0,0
+1792117253335,351,GET - Trang dang nhap (/conggiangvien/login.aspx),200,OK,2. Stress nhe - 25 users 2-18,text,true,,6972,155,9,9,https://qldtbeta.phenikaa-uni.edu.vn/conggiangvien/login.aspx,351,0,0
+1792117253458,232,GET - Trang chu (/),200,OK,2. Stress nhe - 25 users 2-20,text,true,,756,131,9,9,https://qldtbeta.phenikaa-uni.edu.vn/,232,0,0
+1792117253550,307,GET - Trang dang nhap (/conggiangvien/login.aspx),200,OK,2. Stress nhe - 25 users 2-21,text,true,,6972,155,10,10,https://qldtbeta.phenikaa-uni.edu.vn/conggiangvien/login.aspx,307,0,0
+1792117253655,377,GET - Trang chu (/),200,OK,2. Stress nhe - 25 users 2-19,text,true,,756,131,10,10,https://qldtbeta.phenikaa-uni.edu.vn/,377,0,0
+1792117253729,344,GET - Trang chu (/),200,OK,2. Stress nhe - 25 users 2-17,text,true,,756,131,10,10,https://qldtbeta.phenikaa-uni.edu.vn/,344,0,0
+1792117253991,291,GET - Trang dang nhap (/conggiangvien/login.aspx),200,OK,2. Stress nhe - 25 users 2-20,text,true,,6972,155,10,10,https://qldtbeta.phenikaa-uni.edu.vn/conggiangvien/login.aspx,291,0,0
+1792117253986,302,GET - Trang chu (/),200,OK,2. Stress nhe - 25 users 2-18,text,true,,756,131,10,10,https://qldtbeta.phenikaa-uni.edu.vn/,302,0,0
+1792117252355,1971,GET - Trang chu (/),200,OK,2. Stress nhe - 25 users 2-22,text,true,,756,131,10,10,https://qldtbeta.phenikaa-uni.edu.vn/,1971,0,1
+1792117253933,443,GET - Trang dang nhap (/conggiangvien/login.aspx),200,OK,2. Stress nhe - 25 users 2-16,text,true,,6972,155,10,10,https://qldtbeta.phenikaa-uni.edu.vn/conggiangvien/login.aspx,443,0,0
+1792117254158,252,GET - Trang chu (/),200,OK,2. Stress nhe - 25 users 2-21,text,true,,756,131,9,9,https://qldtbeta.phenikaa-uni.edu.vn/,252,0,0
+1792117254332,412,GET - Trang dang nhap (/conggiangvien/login.aspx),200,OK,2. Stress nhe - 25 users 2-19,text,true,,6972,155,9,9,https://qldtbeta.phenikaa-uni.edu.vn/conggiangvien/login.aspx,411,0,0
+1792117254374,419,GET - Trang dang nhap (/conggiangvien/login.aspx),200,OK,2. Stress nhe - 25 users 2-17,text,true,,6972,155,9,9,https://qldtbeta.phenikaa-uni.edu.vn/conggiangvien/login.aspx,419,0,0
+1792117254583,230,GET - Trang chu (/),200,OK,2. Stress nhe - 25 users 2-20,text,true,,756,131,8,8,https://qldtbeta.phenikaa-uni.edu.vn/,230,0,0
+1792117252955,1947,GET - Trang chu (/),200,OK,2. Stress nhe - 25 users 2-23,text,true,,756,131,8,8,https://qldtbeta.phenikaa-uni.edu.vn/,1947,0,0
+1792117254589,357,GET - Trang dang nhap (/conggiangvien/login.aspx),200,OK,2. Stress nhe - 25 users 2-18,text,true,,6972,155,8,8,https://qldtbeta.phenikaa-uni.edu.vn/conggiangvien/login.aspx,357,0,0
+1792117254710,300,GET - Trang dang nhap (/conggiangvien/login.aspx),200,OK,2. Stress nhe - 25 users 2-21,text,true,,6972,155,7,7,https://qldtbeta.phenikaa-uni.edu.vn/conggiangvien/login.aspx,300,0,0
+1792117254627,391,GET - Trang dang nhap (/conggiangvien/login.aspx),200,OK,2. Stress nhe - 25 users 2-22,text,true,,6972,155,7,7,https://qldtbeta.phenikaa-uni.edu.vn/conggiangvien/login.aspx,391,0,0
+1792117253554,1551,GET - Trang chu (/),200,OK,2. Stress nhe - 25 users 2-24,text,true,,756,131,7,7,https://qldtbeta.phenikaa-uni.edu.vn/,1551,0,0
+1792117255114,293,GET - Trang dang nhap (/conggiangvien/login.aspx),200,OK,2. Stress nhe - 25 users 2-20,text,true,,6972,155,7,7,https://qldtbeta.phenikaa-uni.edu.vn/conggiangvien/login.aspx,293,0,0
+1792117255044,378,GET - Trang chu (/),200,OK,2. Stress nhe - 25 users 2-19,text,true,,756,131,6,6,https://qldtbeta.phenikaa-uni.edu.vn/,378,0,0
+1792117255311,252,GET - Trang chu (/),200,OK,2. Stress nhe - 25 users 2-21,text,true,,756,131,6,6,https://qldtbeta.phenikaa-uni.edu.vn/,252,0,0
+1792117255203,407,GET - Trang dang nhap (/conggiangvien/login.aspx),200,OK,2. Stress nhe - 25 users 2-23,text,true,,6972,155,6,6,https://qldtbeta.phenikaa-uni.edu.vn/conggiangvien/login.aspx,407,0,0
+1792117255318,329,GET - Trang chu (/),200,OK,2. Stress nhe - 25 users 2-22,text,true,,756,131,6,6,https://qldtbeta.phenikaa-uni.edu.vn/,329,0,0
+1792117255407,289,GET - Trang dang nhap (/conggiangvien/login.aspx),200,OK,2. Stress nhe - 25 users 2-24,text,true,,6972,155,6,6,https://qldtbeta.phenikaa-uni.edu.vn/conggiangvien/login.aspx,289,0,0
+1792117255722,412,GET - Trang dang nhap (/conggiangvien/login.aspx),200,OK,2. Stress nhe - 25 users 2-19,text,true,,6972,155,6,6,https://qldtbeta.phenikaa-uni.edu.vn/conggiangvien/login.aspx,412,0,0
+1792117255864,289,GET - Trang dang nhap (/conggiangvien/login.aspx),200,OK,2. Stress nhe - 25 users 2-21,text,true,,6972,155,5,5,https://qldtbeta.phenikaa-uni.edu.vn/conggiangvien/login.aspx,289,0,0
+1792117254154,2091,GET - Trang chu (/),200,OK,2. Stress nhe - 25 users 2-25,text,true,,756,131,4,4,https://qldtbeta.phenikaa-uni.edu.vn/,2091,0,1
+1792117255996,254,GET - Trang chu (/),200,OK,2. Stress nhe - 25 users 2-24,text,true,,756,131,4,4,https://qldtbeta.phenikaa-uni.edu.vn/,254,0,0
+1792117255911,344,GET - Trang chu (/),200,OK,2. Stress nhe - 25 users 2-23,text,true,,756,131,4,4,https://qldtbeta.phenikaa-uni.edu.vn/,344,0,0
+1792117255948,365,GET - Trang dang nhap (/conggiangvien/login.aspx),200,OK,2. Stress nhe - 25 users 2-22,text,true,,6972,155,4,4,https://qldtbeta.phenikaa-uni.edu.vn/conggiangvien/login.aspx,364,0,0
+1792117256551,304,GET - Trang dang nhap (/conggiangvien/login.aspx),200,OK,2. Stress nhe - 25 users 2-24,text,true,,6972,155,4,4,https://qldtbeta.phenikaa-uni.edu.vn/conggiangvien/login.aspx,304,0,0
+1792117256555,385,GET - Trang dang nhap (/conggiangvien/login.aspx),200,OK,2. Stress nhe - 25 users 2-23,text,true,,6972,155,4,4,https://qldtbeta.phenikaa-uni.edu.vn/conggiangvien/login.aspx,385,0,0
+1792117256613,329,GET - Trang chu (/),200,OK,2. Stress nhe - 25 users 2-22,text,true,,756,131,4,4,https://qldtbeta.phenikaa-uni.edu.vn/,329,0,0
+1792117256546,401,GET - Trang dang nhap (/conggiangvien/login.aspx),200,OK,2. Stress nhe - 25 users 2-25,text,true,,6972,155,4,4,https://qldtbeta.phenikaa-uni.edu.vn/conggiangvien/login.aspx,401,0,0
+1792117257156,254,GET - Trang chu (/),200,OK,2. Stress nhe - 25 users 2-24,text,true,,756,131,4,4,https://qldtbeta.phenikaa-uni.edu.vn/,254,0,0
+1792117257242,345,GET - Trang chu (/),200,OK,2. Stress nhe - 25 users 2-23,text,true,,756,131,4,4,https://qldtbeta.phenikaa-uni.edu.vn/,345,0,0
+1792117257243,362,GET - Trang dang nhap (/conggiangvien/login.aspx),200,OK,2. Stress nhe - 25 users 2-22,text,true,,6972,155,4,4,https://qldtbeta.phenikaa-uni.edu.vn/conggiangvien/login.aspx,362,0,0
+1792117257249,375,GET - Trang chu (/),200,OK,2. Stress nhe - 25 users 2-25,text,true,,756,131,3,3,https://qldtbeta.phenikaa-uni.edu.vn/,375,0,0
+1792117257711,279,GET - Trang dang nhap (/conggiangvien/login.aspx),200,OK,2. Stress nhe - 25 users 2-24,text,true,,6972,155,3,3,https://qldtbeta.phenikaa-uni.edu.vn/conggiangvien/login.aspx,279,0,0
+1792117257888,376,GET - Trang dang nhap (/conggiangvien/login.aspx),200,OK,2. Stress nhe - 25 users 2-23,text,true,,6972,155,2,2,https://qldtbeta.phenikaa-uni.edu.vn/conggiangvien/login.aspx,376,0,0
+1792117257925,397,GET - Trang dang nhap (/conggiangvien/login.aspx),200,OK,2. Stress nhe - 25 users 2-25,text,true,,6972,155,1,1,https://qldtbeta.phenikaa-uni.edu.vn/conggiangvien/login.aspx,397,0,0
+1792117258623,374,GET - Trang chu (/),200,OK,2. Stress nhe - 25 users 2-25,text,true,,756,131,1,1,https://qldtbeta.phenikaa-uni.edu.vn/,374,0,0
+1792117259299,392,GET - Trang dang nhap (/conggiangvien/login.aspx),200,OK,2. Stress nhe - 25 users 2-25,text,true,,6972,155,1,1,https://qldtbeta.phenikaa-uni.edu.vn/conggiangvien/login.aspx,392,0,0
